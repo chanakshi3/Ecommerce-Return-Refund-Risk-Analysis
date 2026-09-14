@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Price
+5001,Product_5001,Electronics,Shoes,1828.43
+5002,Product_5002,Sports,Clothing,3607.39
+5003,Product_5003,Toys,Furniture,1505.78
+5004,Product_5004,Books,Fitness,2691.02
+5005,Product_5005,Beauty,Shoes,0.0
+5006,Product_5006,Books,Clothing,6154.76
+5007,Product_5007,Beauty,Skincare,1974.88
+5008,Product_5008,Sports,Fitness,1705.96
+5009,Product_5009,Home & Kitchen,Clothing,964.05
+5010,Product_5010,Home & Kitchen,Games,740.17
+5011,Product_5011,Home & Kitchen,Clothing,2942.65
+5012,Product_5012,Electronics,Games,8457.04
+5013,Product_5013,Toys,Laptop,4185.85
+5014,Product_5014,Beauty,Games,609.4
+5015,Product_5015,Home & Kitchen,Shoes,9736.36
+5016,Product_5016,Fashion,Fiction,432.79
+5017,Product_5017,Toys,Shoes,1639.19
+5018,Product_5018,Electronics,Clothing,-100.0
+5019,Product_5019,Home & Kitchen,Furniture,6074.76
+5020,Product_5020,Toys,Furniture,2902.06
+5021,Product_5021,Sports,Skincare,530.15
+5022,Product_5022,Toys,Fiction,7926.04
+5023,Product_5023,Home & Kitchen,Laptop,591.24
+5024,Product_5024,Fashion,Laptop,349.07
+5025,Product_5025,Home & Kitchen,Skincare,584.91
+5026,Product_5026,Fashion,Games,2751.82
+5027,Product_5027,Toys,Games,8737.29
+5028,Product_5028,Fashion,Games,7725.56
+5029,Product_5029,Electronics,Laptop,209.44
+5030,Product_5030,Electronics,Skincare,0.0
+5031,Product_5031,Home & Kitchen,Clothing,6775.74
+5032,Product_5032,Fashion,Laptop,1422.93
+5033,Product_5033,Beauty,Fitness,2785.03
+5034,Product_5034,Sports,Fitness,-100.0
+5035,Product_5035,Sports,Games,2615.71
+5036,Product_5036,Home & Kitchen,Games,10273.21
+5037,Product_5037,Beauty,Laptop,1355.74
+5038,Product_5038,Books,Furniture,747.66
+5039,Product_5039,Toys,Laptop,1826.39
+5040,Product_5040,Electronics,Furniture,1576.3
+5041,Product_5041,Books,Fiction,852.46
+5042,Product_5042,Books,Skincare,1392.46
+5043,Product_5043,Toys,Fitness,914.47
+5044,Product_5044,Electronics,Skincare,511.72
+5045,Product_5045,Sports,Clothing,9269.14
+5046,Product_5046,Toys,Mobile,8681.24
+5047,Product_5047,Home & Kitchen,Laptop,1604.07
+5048,Product_5048,Books,Laptop,1953.66
+5049,Product_5049,Beauty,Shoes,1091.9
+5050,Product_5050,Books,Furniture,1327.22
+5051,Product_5051,Books,Laptop,1691.28
+5052,Product_5052,Electronics,Shoes,1180.99
+5053,Product_5053,Home & Kitchen,Fitness,694.53
+5054,Product_5054,Electronics,Fitness,5454.55
+5055,Product_5055,Home & Kitchen,Mobile,592.05
+5056,Product_5056,Fashion,Shoes,1532.02
+5057,Product_5057,Electronics,Mobile,1704.76
+5058,Product_5058,Sports,Fitness,9238.75
+5059,Product_5059,Fashion,Fiction,1553.03
+5060,Product_5060,Sports,Shoes,1300.66
+5061,Product_5061,Toys,Clothing,1286.2
+5062,Product_5062,Sports,Fitness,2690.06
+5063,Product_5063,Beauty,Games,1510.69
+5064,Product_5064,Fashion,Mobile,746.88
+5065,Product_5065,Toys,Skincare,4980.22
+5066,Product_5066,Electronics,Mobile,2027.65
+5067,Product_5067,Electronics,Fitness,2479.66
+5068,Product_5068,Home & Kitchen,Games,641.26
+5069,Product_5069,Beauty,Clothing,-100.0
+5070,Product_5070,Books,Skincare,2856.09
+5071,Product_5071,Beauty,Shoes,1113.89
+5072,Product_5072,Beauty,Clothing,2186.73
+5073,Product_5073,Beauty,Laptop,1114.23
+5074,Product_5074,Fashion,Fiction,1354.19
+5075,Product_5075,Sports,Fitness,4112.55
+5076,Product_5076,Home & Kitchen,Games,893.34
+5077,Product_5077,Beauty,Clothing,2593.24
+5078,Product_5078,Books,Mobile,3525.58
+5079,Product_5079,Toys,Mobile,2523.32
+5080,Product_5080,Beauty,Skincare,5100.25
+5081,Product_5081,Sports,Skincare,1097.6
+5082,Product_5082,Beauty,Laptop,4506.56
+5083,Product_5083,Books,Skincare,3478.74
+5084,Product_5084,Home & Kitchen,Skincare,1928.63
+5085,Product_5085,Home & Kitchen,Fitness,1689.73
+5086,Product_5086,Home & Kitchen,Fiction,1335.81
+5087,Product_5087,Books,Fitness,891.01
+5088,Product_5088,Sports,Fitness,1550.81
+5089,Product_5089,Home & Kitchen,Fiction,19576.28
+5090,Product_5090,Electronics,Shoes,1713.02
+5091,Product_5091,Beauty,Laptop,5395.23
+5092,Product_5092,Sports,Laptop,0.0
+5093,Product_5093,Toys,Skincare,2110.95
+5094,Product_5094,Toys,Clothing,1624.9
+5095,Product_5095,Electronics,Clothing,12777.58
+5096,Product_5096,Books,Skincare,1922.47
+5097,Product_5097,Toys,Shoes,3665.83
+5098,Product_5098,Electronics,Fitness,1051.31
+5099,Product_5099,Books,Shoes,1003.12
+5100,Product_5100,Books,Fiction,351.17
+5101,Product_5101,Sports,Fiction,2396.47
+5102,Product_5102,Sports,Games,423.48
+5103,Product_5103,Toys,Skincare,6951.25
+5104,Product_5104,Electronics,Skincare,1382.06
+5105,Product_5105,Home & Kitchen,Laptop,1139.13
+5106,Product_5106,Sports,Laptop,2536.15
+5107,Product_5107,Sports,Laptop,3508.36
+5108,Product_5108,Toys,Furniture,1610.28
+5109,Product_5109,Home & Kitchen,Furniture,849.93
+5110,Product_5110,Electronics,Furniture,4332.19
+5111,Product_5111,Electronics,Clothing,802.13
+5112,Product_5112,Books,Clothing,2260.33
+5113,Product_5113,Electronics,Mobile,1112.66
+5114,Product_5114,Toys,Games,7566.59
+5115,Product_5115,Electronics,Games,2058.36
+5116,Product_5116,Sports,Fiction,2246.28
+5117,Product_5117,Electronics,Games,1350.91
+5118,Product_5118,Sports,Fiction,3189.8
+5119,Product_5119,Fashion,Skincare,1063.08
+5120,Product_5120,Beauty,Fitness,2812.48
+5121,Product_5121,Electronics,Fiction,2399.78
+5122,Product_5122,Electronics,Furniture,5282.36
+5123,Product_5123,Toys,Laptop,1324.35
+5124,Product_5124,Sports,Shoes,4023.06
+5125,Product_5125,Toys,Skincare,1745.84
+5126,Product_5126,Fashion,Fitness,7559.07
+5127,Product_5127,Beauty,Laptop,2494.93
+5128,Product_5128,Toys,Mobile,700.27
+5129,Product_5129,Electronics,Skincare,2577.23
+5130,Product_5130,Home & Kitchen,Laptop,-100.0
+5131,Product_5131,Books,Shoes,1813.17
+5132,Product_5132,Fashion,Fitness,794.11
+5133,Product_5133,Home & Kitchen,Clothing,641.44
+5134,Product_5134,Home & Kitchen,Games,1041.71
+5135,Product_5135,Fashion,Clothing,1559.24
+5136,Product_5136,Sports,Laptop,1189.22
+5137,Product_5137,Books,Furniture,1036.4
+5138,Product_5138,Beauty,Fitness,496.66
+5139,Product_5139,Beauty,Furniture,1870.17
+5140,Product_5140,Toys,Fiction,4939.54
+5141,Product_5141,Home & Kitchen,Skincare,999999.0
+5142,Product_5142,Home & Kitchen,Games,2417.57
+5143,Product_5143,Home & Kitchen,Shoes,4820.5
+5144,Product_5144,Books,Fiction,886.13
+5145,Product_5145,Sports,Fiction,1660.68
+5146,Product_5146,Books,Shoes,506.29
+5147,Product_5147,Fashion,Mobile,1774.75
+5148,Product_5148,Home & Kitchen,Shoes,2368.14
+5149,Product_5149,Beauty,Laptop,523.64
+5150,Product_5150,Beauty,Skincare,703.18
+5151,Product_5151,Books,Fitness,2605.98
+5152,Product_5152,Electronics,Furniture,1311.6
+5153,Product_5153,Sports,Fiction,1777.91
+5154,Product_5154,Beauty,Mobile,1331.83
+5155,Product_5155,Fashion,Fiction,614.45
+5156,Product_5156,Home & Kitchen,Clothing,3202.06
+5157,Product_5157,Books,Furniture,524.75
+5158,Product_5158,Sports,Furniture,-100.0
+5159,Product_5159,Fashion,Fitness,999999.0
+5160,Product_5160,Fashion,Skincare,840.13
+5161,Product_5161,Toys,Clothing,414.17
+5162,Product_5162,Home & Kitchen,Fiction,1445.51
+5163,Product_5163,Beauty,Fiction,858.87
+5164,Product_5164,Books,Clothing,3739.67
+5165,Product_5165,Books,Clothing,2983.06
+5166,Product_5166,Fashion,Skincare,1366.87
+5167,Product_5167,Home & Kitchen,Fiction,1535.25
+5168,Product_5168,Home & Kitchen,Laptop,1204.99
+5169,Product_5169,Toys,Fitness,829.54
+5170,Product_5170,Home & Kitchen,Mobile,2935.91
+5171,Product_5171,Home & Kitchen,Fitness,2307.58
+5172,Product_5172,Beauty,Games,1263.65
+5173,Product_5173,Sports,Clothing,1045.03
+5174,Product_5174,Electronics,Clothing,7017.25
+5175,Product_5175,Sports,Fiction,806.8
+5176,Product_5176,Electronics,Games,2564.28
+5177,Product_5177,Electronics,Fitness,2219.36
+5178,Product_5178,Toys,Shoes,3100.12
+5179,Product_5179,Home & Kitchen,Skincare,1022.68
+5180,Product_5180,Home & Kitchen,Clothing,977.58
+5181,Product_5181,Books,Fiction,781.21
+5182,Product_5182,Home & Kitchen,Laptop,520.15
+5183,Product_5183,Home & Kitchen,Clothing,5931.87
+5184,Product_5184,Home & Kitchen,Furniture,2827.18
+5185,Product_5185,Sports,Games,684.83
+5186,Product_5186,Electronics,Laptop,1510.02
+5187,Product_5187,Electronics,Furniture,5394.55
+5188,Product_5188,Sports,Mobile,2894.28
+5189,Product_5189,Sports,Mobile,1528.32
+5190,Product_5190,Toys,Mobile,1532.12
+5191,Product_5191,Fashion,Games,5015.17
+5192,Product_5192,Sports,Clothing,1429.46
+5193,Product_5193,Beauty,Laptop,11702.77
+5194,Product_5194,Sports,Fitness,5415.93
+5195,Product_5195,Home & Kitchen,Fitness,602.14
+5196,Product_5196,Beauty,Fiction,537.83
+5197,Product_5197,Toys,Skincare,1555.2
+5198,Product_5198,Toys,Mobile,1072.04
+5199,Product_5199,Toys,Laptop,125.52
+5200,Product_5200,Books,Fitness,6032.94
+5201,Product_5201,Toys,Fiction,4847.87
+5202,Product_5202,Books,Skincare,2180.08
+5203,Product_5203,Fashion,Skincare,5116.79
+5204,Product_5204,Toys,Fiction,1448.91
+5205,Product_5205,Fashion,Laptop,1019.46
+5206,Product_5206,Toys,Fitness,1480.79
+5207,Product_5207,Sports,Laptop,1208.83
+5208,Product_5208,Sports,Shoes,3017.12
+5209,Product_5209,Home & Kitchen,Fiction,4485.18
+5210,Product_5210,Beauty,Games,3174.15
+5211,Product_5211,Books,Skincare,164.91
+5212,Product_5212,Electronics,Fiction,1486.29
+5213,Product_5213,Beauty,Furniture,2009.95
+5214,Product_5214,Beauty,Fiction,1851.2
+5215,Product_5215,Fashion,Games,728.1
+5216,Product_5216,Books,Furniture,2127.87
+5217,Product_5217,Sports,Furniture,5811.06
+5218,Product_5218,Books,Shoes,861.35
+5219,Product_5219,Home & Kitchen,Fiction,1499.56
+5220,Product_5220,Toys,Fiction,516.9
+5221,Product_5221,Sports,Furniture,936.45
+5222,Product_5222,Electronics,Mobile,314.69
+5223,Product_5223,Beauty,Skincare,1012.89
+5224,Product_5224,Home & Kitchen,Mobile,521.46
+5225,Product_5225,Electronics,Fiction,10458.74
+5226,Product_5226,Electronics,Skincare,344.27
+5227,Product_5227,Electronics,Mobile,2154.74
+5228,Product_5228,Toys,Furniture,1800.85
+5229,Product_5229,Books,Fitness,9783.96
+5230,Product_5230,Home & Kitchen,Games,2396.79
+5231,Product_5231,Beauty,Games,1059.5
+5232,Product_5232,Fashion,Fitness,7329.41
+5233,Product_5233,Beauty,Games,2491.8
+5234,Product_5234,Sports,Furniture,2071.15
+5235,Product_5235,Beauty,Clothing,1130.58
+5236,Product_5236,Toys,Games,5734.49
+5237,Product_5237,Fashion,Mobile,2023.63
+5238,Product_5238,Beauty,Fiction,684.75
+5239,Product_5239,Toys,Mobile,1223.72
+5240,Product_5240,Home & Kitchen,Fiction,1836.44
+5241,Product_5241,Toys,Skincare,3160.9
+5242,Product_5242,Beauty,Clothing,6530.49
+5243,Product_5243,Electronics,Fitness,3040.24
+5244,Product_5244,Electronics,Skincare,14731.38
+5245,Product_5245,Books,Fitness,764.05
+5246,Product_5246,Home & Kitchen,Furniture,7749.64
+5247,Product_5247,Beauty,Furniture,2212.55
+5248,Product_5248,Beauty,Clothing,1092.25
+5249,Product_5249,Electronics,Clothing,2571.83
+5250,Product_5250,Beauty,Laptop,6889.36
+5251,Product_5251,Toys,Furniture,1007.14
+5252,Product_5252,Home & Kitchen,Shoes,1723.2
+5253,Product_5253,Electronics,Laptop,1259.44
+5254,Product_5254,Books,Fiction,911.75
+5255,Product_5255,Sports,Clothing,993.21
+5256,Product_5256,Books,Games,650.28
+5257,Product_5257,Beauty,Games,1003.59
+5258,Product_5258,Electronics,Fitness,1685.41
+5259,Product_5259,Electronics,Skincare,3438.32
+5260,Product_5260,Toys,Fiction,450.28
+5261,Product_5261,Fashion,Shoes,2058.29
+5262,Product_5262,Beauty,Furniture,1635.21
+5263,Product_5263,Toys,Mobile,2873.86
+5264,Product_5264,Books,Mobile,781.36
+5265,Product_5265,Sports,Shoes,3877.06
+5266,Product_5266,Sports,Fitness,880.55
+5267,Product_5267,Electronics,Laptop,3500.89
+5268,Product_5268,Beauty,Skincare,2762.26
+5269,Product_5269,Books,Fiction,499.79
+5270,Product_5270,Sports,Fitness,2624.1
+5271,Product_5271,Sports,Shoes,2872.13
+5272,Product_5272,Electronics,Clothing,675.81
+5273,Product_5273,Electronics,Shoes,2037.33
+5274,Product_5274,Home & Kitchen,Clothing,570.64
+5275,Product_5275,Sports,Clothing,1749.62
+5276,Product_5276,Fashion,Skincare,1360.37
+5277,Product_5277,Beauty,Games,9654.84
+5278,Product_5278,Sports,Shoes,3014.77
+5279,Product_5279,Home & Kitchen,Mobile,2153.3
+5280,Product_5280,Toys,Furniture,3078.99
+5281,Product_5281,Books,Mobile,1363.5
+5282,Product_5282,Beauty,Fiction,7546.56
+5283,Product_5283,Sports,Games,292.43
+5284,Product_5284,Toys,Clothing,999999.0
+5285,Product_5285,Electronics,Shoes,2690.38
+5286,Product_5286,Electronics,Games,777.14
+5287,Product_5287,Toys,Furniture,2370.14
+5288,Product_5288,Home & Kitchen,Shoes,323.99
+5289,Product_5289,Toys,Furniture,3395.25
+5290,Product_5290,Books,Shoes,834.67
+5291,Product_5291,Fashion,Fitness,2430.26
+5292,Product_5292,Books,Mobile,9418.28
+5293,Product_5293,Beauty,Games,3618.59
+5294,Product_5294,Home & Kitchen,Fitness,1528.6
+5295,Product_5295,Electronics,Games,4828.21
+5296,Product_5296,Fashion,Furniture,3415.54
+5297,Product_5297,Toys,Fiction,1268.23
+5298,Product_5298,Beauty,Fiction,2915.31
+5299,Product_5299,Home & Kitchen,Shoes,410.64
+5300,Product_5300,Electronics,Games,1806.99
+5301,Product_5301,Electronics,Fitness,5155.41
+5302,Product_5302,Home & Kitchen,Fiction,3181.37
+5303,Product_5303,Beauty,Laptop,1815.28
+5304,Product_5304,Fashion,Fitness,2013.72
+5305,Product_5305,Electronics,Mobile,11962.74
+5306,Product_5306,Fashion,Furniture,1345.61
+5307,Product_5307,Sports,Games,2128.77
+5308,Product_5308,Fashion,Skincare,2277.28
+5309,Product_5309,Electronics,Skincare,999999.0
+5310,Product_5310,Sports,Laptop,5010.76
+5311,Product_5311,Fashion,Shoes,138.25
+5312,Product_5312,Electronics,Games,2659.96
+5313,Product_5313,Sports,Shoes,2217.89
+5314,Product_5314,Fashion,Furniture,441.02
+5315,Product_5315,Home & Kitchen,Fitness,2733.27
+5316,Product_5316,Home & Kitchen,Furniture,460.02
+5317,Product_5317,Electronics,Clothing,2565.9
+5318,Product_5318,Books,Games,480.98
+5319,Product_5319,Sports,Fiction,2267.03
+5320,Product_5320,Sports,Fiction,612.54
+5321,Product_5321,Electronics,Mobile,5844.69
+5322,Product_5322,Books,Mobile,2676.84
+5323,Product_5323,Electronics,Games,1946.08
+5324,Product_5324,Books,Skincare,1606.5
+5325,Product_5325,Beauty,Fitness,1068.34
+5326,Product_5326,Beauty,Shoes,2172.33
+5327,Product_5327,Home & Kitchen,Fiction,5593.1
+5328,Product_5328,Toys,Clothing,6456.76
+5329,Product_5329,Fashion,Laptop,453.26
+5330,Product_5330,Books,Skincare,1241.77
+5331,Product_5331,Fashion,Shoes,688.6
+5332,Product_5332,Sports,Laptop,731.41
+5333,Product_5333,Electronics,Shoes,2284.85
+5334,Product_5334,Electronics,Games,4604.74
+5335,Product_5335,Home & Kitchen,Skincare,2642.76
+5336,Product_5336,Sports,Shoes,3077.67
+5337,Product_5337,Home & Kitchen,Clothing,1458.22
+5338,Product_5338,Toys,Furniture,1496.54
+5339,Product_5339,Fashion,Mobile,496.7
+5340,Product_5340,Toys,Laptop,1151.99
+5341,Product_5341,Books,Shoes,-100.0
+5342,Product_5342,Home & Kitchen,Shoes,1028.28
+5343,Product_5343,Home & Kitchen,Furniture,1735.11
+5344,Product_5344,Sports,Fiction,3690.16
+5345,Product_5345,Home & Kitchen,Fiction,6784.22
+5346,Product_5346,Books,Shoes,2364.46
+5347,Product_5347,Fashion,Fiction,1345.73
+5348,Product_5348,Sports,Furniture,1972.39
+5349,Product_5349,Toys,Fitness,766.36
+5350,Product_5350,Toys,Skincare,807.78
+5351,Product_5351,Sports,Laptop,2968.03
+5352,Product_5352,Sports,Skincare,1093.14
+5353,Product_5353,Fashion,Mobile,2103.43
+5354,Product_5354,Fashion,Games,3706.45
+5355,Product_5355,Electronics,Shoes,1378.14
+5356,Product_5356,Fashion,Fitness,456.68
+5357,Product_5357,Toys,Clothing,144.94
+5358,Product_5358,Fashion,Mobile,3634.42
+5359,Product_5359,Home & Kitchen,Fiction,190.08
+5360,Product_5360,Books,Mobile,1789.62
+5361,Product_5361,Books,Games,4486.5
+5362,Product_5362,Fashion,Clothing,1663.38
+5363,Product_5363,Electronics,Skincare,3159.66
+5364,Product_5364,Fashion,Shoes,2369.69
+5365,Product_5365,Toys,Laptop,19099.31
+5366,Product_5366,Sports,Furniture,2451.79
+5367,Product_5367,Toys,Mobile,2895.7
+5368,Product_5368,Fashion,Laptop,304.26
+5369,Product_5369,Electronics,Fiction,2788.55
+5370,Product_5370,Books,Fiction,4394.79
+5371,Product_5371,Home & Kitchen,Fiction,2587.6
+5372,Product_5372,Toys,Skincare,1215.45
+5373,Product_5373,Electronics,Skincare,14779.89
+5374,Product_5374,Beauty,Fiction,4311.97
+5375,Product_5375,Electronics,Shoes,1932.29
+5376,Product_5376,Fashion,Mobile,1541.59
+5377,Product_5377,Fashion,Fiction,415.73
+5378,Product_5378,Books,Laptop,1648.1
+5379,Product_5379,Sports,Mobile,1049.59
+5380,Product_5380,Electronics,Fitness,397.14
+5381,Product_5381,Toys,Skincare,7930.98
+5382,Product_5382,Toys,Mobile,2120.43
+5383,Product_5383,Sports,Mobile,2483.56
+5384,Product_5384,Home & Kitchen,Laptop,1293.97
+5385,Product_5385,Books,Fiction,4249.32
+5386,Product_5386,Beauty,Laptop,2466.59
+5387,Product_5387,Books,Fiction,6156.37
+5388,Product_5388,Sports,Fitness,5035.32
+5389,Product_5389,Sports,Clothing,1680.65
+5390,Product_5390,Books,Laptop,3023.15
+5391,Product_5391,Fashion,Furniture,1113.23
+5392,Product_5392,Fashion,Laptop,9358.64
+5393,Product_5393,Toys,Fiction,1585.8
+5394,Product_5394,Electronics,Mobile,13902.01
+5395,Product_5395,Beauty,Games,692.93
+5396,Product_5396,Fashion,Laptop,2304.34
+5397,Product_5397,Sports,Fitness,2743.51
+5398,Product_5398,Beauty,Furniture,1990.25
+5399,Product_5399,Sports,Games,1294.73
+5400,Product_5400,Fashion,Games,1306.5
+5401,Product_5401,Sports,Clothing,1647.94
+5402,Product_5402,Beauty,Skincare,4726.48
+5403,Product_5403,Fashion,Furniture,7253.31
+5404,Product_5404,Toys,Clothing,372.78
+5405,Product_5405,Home & Kitchen,Shoes,5971.86
+5406,Product_5406,Electronics,Skincare,3218.32
+5407,Product_5407,Toys,Mobile,5290.46
+5408,Product_5408,Home & Kitchen,Fiction,650.78
+5409,Product_5409,Beauty,Mobile,5749.07
+5410,Product_5410,Home & Kitchen,Furniture,6097.58
+5411,Product_5411,Beauty,Fiction,860.65
+5412,Product_5412,Beauty,Fiction,684.33
+5413,Product_5413,Electronics,Fitness,6475.13
+5414,Product_5414,Books,Mobile,2753.04
+5415,Product_5415,Toys,Laptop,1480.69
+5416,Product_5416,Fashion,Fitness,2121.26
+5417,Product_5417,Books,Games,12673.57
+5418,Product_5418,Toys,Clothing,2078.7
+5419,Product_5419,Home & Kitchen,Games,1733.49
+5420,Product_5420,Toys,Fiction,959.02
+5421,Product_5421,Home & Kitchen,Skincare,2637.09
+5422,Product_5422,Beauty,Clothing,1713.44
+5423,Product_5423,Toys,Fiction,619.94
+5424,Product_5424,Beauty,Shoes,1641.42
+5425,Product_5425,Sports,Games,427.74
+5426,Product_5426,Toys,Games,4332.91
+5427,Product_5427,Sports,Furniture,2611.02
+5428,Product_5428,Home & Kitchen,Mobile,1594.64
+5429,Product_5429,Electronics,Furniture,439.09
+5430,Product_5430,Sports,Fitness,4947.01
+5431,Product_5431,Fashion,Clothing,377.29
+5432,Product_5432,Sports,Shoes,633.47
+5433,Product_5433,Beauty,Fitness,453.35
+5434,Product_5434,Toys,Shoes,913.43
+5435,Product_5435,Fashion,Games,5505.69
+5436,Product_5436,Home & Kitchen,Furniture,1889.64
+5437,Product_5437,Home & Kitchen,Fiction,1313.7
+5438,Product_5438,Electronics,Games,880.91
+5439,Product_5439,Home & Kitchen,Games,2065.61
+5440,Product_5440,Sports,Clothing,15427.88
+5441,Product_5441,Fashion,Fiction,3097.07
+5442,Product_5442,Electronics,Furniture,316.99
+5443,Product_5443,Toys,Games,972.42
+5444,Product_5444,Fashion,Skincare,613.64
+5445,Product_5445,Beauty,Clothing,3485.78
+5446,Product_5446,Books,Clothing,6300.45
+5447,Product_5447,Sports,Laptop,5000.14
+5448,Product_5448,Toys,Mobile,2289.94
+5449,Product_5449,Home & Kitchen,Games,545.44
+5450,Product_5450,Beauty,Laptop,497.82
+5451,Product_5451,Sports,Games,1581.06
+5452,Product_5452,Toys,Mobile,539.69
+5453,Product_5453,Electronics,Mobile,2575.03
+5454,Product_5454,Beauty,Shoes,3645.89
+5455,Product_5455,Books,Mobile,0.0
+5456,Product_5456,Sports,Furniture,3094.03
+5457,Product_5457,Books,Furniture,-100.0
+5458,Product_5458,Toys,Shoes,1808.63
+5459,Product_5459,Beauty,Shoes,2919.65
+5460,Product_5460,Beauty,Mobile,3030.63
+5461,Product_5461,Fashion,Furniture,11453.71
+5462,Product_5462,Fashion,Games,845.86
+5463,Product_5463,Beauty,Furniture,738.65
+5464,Product_5464,Sports,Fiction,1459.81
+5465,Product_5465,Home & Kitchen,Mobile,1109.3
+5466,Product_5466,Beauty,Shoes,1597.6
+5467,Product_5467,Electronics,Fiction,1838.65
+5468,Product_5468,Electronics,Clothing,12222.87
+5469,Product_5469,Electronics,Clothing,471.54
+5470,Product_5470,Fashion,Laptop,6222.87
+5471,Product_5471,Books,Clothing,1948.73
+5472,Product_5472,Fashion,Furniture,1111.78
+5473,Product_5473,Books,Fitness,1142.13
+5474,Product_5474,Beauty,Skincare,655.97
+5475,Product_5475,Electronics,Laptop,2133.27
+5476,Product_5476,Home & Kitchen,Laptop,1036.17
+5477,Product_5477,Books,Mobile,1010.36
+5478,Product_5478,Fashion,Furniture,651.08
+5479,Product_5479,Beauty,Fitness,707.04
+5480,Product_5480,Electronics,Furniture,1174.56
+5481,Product_5481,Books,Shoes,11323.74
+5482,Product_5482,Home & Kitchen,Fitness,1018.36
+5483,Product_5483,Electronics,Clothing,4074.58
+5484,Product_5484,Books,Fitness,836.0
+5485,Product_5485,Electronics,Shoes,1817.81
+5486,Product_5486,Electronics,Shoes,1943.51
+5487,Product_5487,Beauty,Skincare,335.71
+5488,Product_5488,Fashion,Mobile,1345.21
+5489,Product_5489,Electronics,Fitness,10811.87
+5490,Product_5490,Sports,Fiction,615.98
+5491,Product_5491,Toys,Clothing,2559.78
+5492,Product_5492,Beauty,Skincare,755.51
+5493,Product_5493,Fashion,Furniture,6283.6
+5494,Product_5494,Electronics,Shoes,861.81
+5495,Product_5495,Electronics,Furniture,2169.83
+5496,Product_5496,Beauty,Shoes,2165.99
+5497,Product_5497,Toys,Fiction,3438.23
+5498,Product_5498,Beauty,Laptop,473.63
+5499,Product_5499,Fashion,Fiction,766.58
+5500,Product_5500,Home & Kitchen,Mobile,323.95
